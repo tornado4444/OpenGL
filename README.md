@@ -136,12 +136,8 @@ The next, I'm trying to load model and base guizmo and render the model(sponza).
 - [X] Signed Distance Field Font Rendering.
 - [X] Fixing camera and textures.
 - [X] Models.
-- [ ] Guizmo.
-- [ ] AO(Ambient Occlusion).
-- [ ] Animation.
-- [ ] PBR.
-- [ ] Volumetric Clouds.
 - [ ] BVH.
+- [ ] Geometry Shader.
 
 # Operating Systems.
 - [X] Windows.
