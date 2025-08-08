@@ -7,7 +7,7 @@ The first of all I'm been tried to make my Engine, that on future make grete thi
 - [X] Fixing camera and textures.
 - [X] Models.
 - [ ] BVH.
-- [ ] Geometry Shader.
+- [X] Geometry Shader.
 
 # Operating Systems.
 - [X] Windows.
