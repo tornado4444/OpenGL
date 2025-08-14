@@ -6,11 +6,7 @@ Here been my project OpenGL! It's don't my first project, it's just my repeat ab
 - [X] Fixing camera and textures.
 - [X] Models.
 - [X] Guizmo.
-- [ ] AO(Ambient Occlusion).
-- [ ] Animation.
-- [ ] PBR.
-- [ ] Volumetric Clouds.
-- [ ] BVH.
+
 
 # Operating Systems.
 - [X] Windows.
